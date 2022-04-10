@@ -9,6 +9,7 @@ YOLO or You Only Look Once is an algorithm that uses neural networks to provide 
 
 # Demo Screenshot
 
+
 ![WhatsApp Image 2022-04-11 at 12 15 07 AM](https://user-images.githubusercontent.com/71788604/162634790-8edeb8f7-8c91-49d1-9d29-69f0abbdbeba.jpeg)
 
 
