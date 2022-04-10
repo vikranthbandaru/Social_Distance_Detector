@@ -5,4 +5,6 @@ The current COVID-19 pandemic is showing negative effects on human health as wel
 
 ------------
 # YOLO Theory:
-You Only Look Once (YOLO) is an algorithm that uses neural networks to provide real-time object detection. Object detection in YOLO is done as a regression problem and provides the class probabilities of the detected images. As the name suggests, the algorithm requires only a single forward propagation through a neural network to detect objects.
+You Only Look Once(YOLO) is an algorithm that uses neural networks to provide real-time object detection. Object detection in YOLO is done as a regression problem and provides the class probabilities of the detected images. As the name suggests, the algorithm requires only a single forward propagation through a neural network to detect objects.
+
+
