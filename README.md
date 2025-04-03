@@ -60,16 +60,6 @@ python run.py --input 0 --output output/results.avi
 - `--threshold`: Minimum safe distance in pixels (default: 50)
 - `--confidence`: Detection confidence threshold (default: 0.5)
 
-## Project Structure
-
-- `run.py`: Main script to run the social distance detector
-- `utilities/`: Helper functions and utility modules
-  - `detection.py`: YOLO object detection implementation
-  - `distance.py`: Distance calculation algorithms
-  - `transformation.py`: Perspective transformation utilities
-- `media/`: Sample videos and test files
-- `requirements.txt`: List of required Python packages
-
 ## Results
 
 The system effectively identifies individuals in various environments and calculates the distances between them to detect social distancing violations. Performance metrics show:
@@ -78,13 +68,6 @@ The system effectively identifies individuals in various environments and calcul
 - Processing speed of 5-20 FPS depending on hardware and video resolution
 - Reliable distance estimation after proper calibration
 
-## Future Improvements
-
-- Implement crowd density estimation for high-occupancy areas
-- Add automated alerting systems for real-time notification
-- Enhance distance calculation using depth estimation techniques
-- Develop privacy-preserving detection methods
-- Optimize for deployment on edge devices
 
 
 ## Acknowledgments
